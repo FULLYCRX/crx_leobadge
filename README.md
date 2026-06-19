@@ -3,9 +3,6 @@ A simple FiveM LEO Badge item and script for LEO's and Government Agent's to sho
 You may NOT resell or reupload this content as your own!
 Or I will find you!!! >:(
 
-# crx_leobadge
-FiveM LEO Badge script for LEO's and Government Agent's to use!
-
 # Dependencies
 qb-core & es_extended
 
