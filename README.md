@@ -71,5 +71,5 @@ and flash your badge to other players!
 * get the badge and boom your done
 
 # Support
-[Discord Server](https://discord.gg/6QchSKDY7j)
-[Discord Server 2](https://discord.gg/YJXZagSzh7)
+[I_AM_FULLYCRX Official Discord](https://discord.gg/6QchSKDY7j)
+[Iron Justice Roleplay Official Discord](https://discord.gg/YJXZagSzh7)
