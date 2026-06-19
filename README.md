@@ -30,7 +30,7 @@ Config.Inventory = "qb" -- "qb" or "ox"
 Config.DisplayTime = 5000 
 
 Config.EmoteCommand = "idcardb"
-Config.DisplayTime = 5000 -- Matches the 5-second show timer
+Config.DisplayTime = 5000 -- 5 second show timer
 
 Config.UI = {
     BadgeWidth = "600px",          
