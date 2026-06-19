@@ -29,24 +29,20 @@ Config.Framework = "qb" -- "qb" or "esx"
 Config.Inventory = "qb" -- "qb" or "ox"
 Config.DisplayTime = 5000 
 
--- Directly hooks into your rpemotes system
 Config.EmoteCommand = "idcardb"
 Config.DisplayTime = 5000 -- Matches the 5-second show timer
 
--- Precise alignment fixed from screenshots
 Config.UI = {
     BadgeWidth = "600px",          
     BadgeHeight = "600px",
     BadgePositionTop = "50%",
     BadgePositionLeft = "50%",
     
-    -- Moved down from 53% to 61% to sit perfectly in the center blank space
     NameTop = "61%",
     NameLeft = "26%",
     NameFontSize = "20px",
     NameColor = "#0d1b2a",         
     
-    -- Shifted down that final fraction from 38.5% to 39.2%
     PhotoTop = "39.2%",
     PhotoLeft = "33%",
     PhotoWidth = "84px",
