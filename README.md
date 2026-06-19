@@ -4,7 +4,7 @@ You may NOT resell or reupload this content as your own!
 Or I will find you!!! >:(
 
 # Dependencies
-qb-core & es_extended
+qb-core, es_extended, & repemotes-reborn
 
 # Supported Inventories
 qb-inventory & ox_inventory
