@@ -1,5 +1,5 @@
 # crx_leobadge
-A simple FiveM LEO Badge item and script for LEO's and Government Agent's to show other players proof of realism!
+A simple FiveM LEO Badge item and script for LEO's and Government Agent's to show other players proof of realism! This script auto detects what job you are in and updates accordingly! Preset Jobs, Police (LSPD) LSSD, BCSO, SASP, SAHP, SAST, FIB (FBI), NOOSE (DHS)
 You may NOT resell or reupload this content as your own!
 Or I will find you!!! >:(
 
