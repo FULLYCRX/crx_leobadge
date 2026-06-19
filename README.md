@@ -14,6 +14,13 @@ qb-inventory & ox_inventory
 * Add paste the following in your server.cfg
 * ensure crx_leobadge
 
+# Example of Badges
+<img width="2048" height="2048" alt="badge1" src="https://github.com/user-attachments/assets/06bc555b-e691-4341-b00b-4bb7bcc89de3" />
+<img width="2048" height="2048" alt="badge2" src="https://github.com/user-attachments/assets/f22c67bb-6ef9-487e-8d40-6fdf9fbc34bd" />
+<img width="2048" height="2048" alt="badge3" src="https://github.com/user-attachments/assets/9013e40f-40b1-466d-8e5a-87db1093beda" />
+<img width="2048" height="2048" alt="badge4" src="https://github.com/user-attachments/assets/9c4f5b51-d868-4d90-8052-a6e8e50072e7" />
+<img width="128" height="153" alt="none" src="https://github.com/user-attachments/assets/4911e402-4c6a-4f2e-9d09-e8105fdde6ce" />
+
 # Configuration
 ```
 Config = {}
